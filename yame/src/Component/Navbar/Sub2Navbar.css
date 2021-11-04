@@ -1,0 +1,43 @@
+:root {
+  --primary: #e13546;
+  --secondary: #878995;
+  --bgcolor: #121212;
+}
+.moreSubItem {
+  position: relative;
+}
+
+.Sub2Navbar {
+  position: absolute;
+  padding-left: -30px;
+  left: 100%;
+  visibility: hidden;
+  opacity: 0;
+  top: 0%;
+  transition: all 0.3s;
+}
+.moreSubItem:hover .Sub2Navbar {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* 
+*/
+.Sub2Navbar ul {
+  list-style: none;
+  width: 230px;
+}
+
+.Sub2Navbar ul li {
+  width: 100%;
+  background-color: var(--bgcolor);
+}
+.Sub2Navbar ul li a {
+  display: inline-block;
+  color: white;
+  width: 100%;
+  padding-left: 30px;
+}
+.SubItemsList {
+  margin-left: -8%;
+}

@@ -1,0 +1,108 @@
+:root {
+  --primary: #e13546;
+  --secondary: #878995;
+  --bgcolor: #191919;
+}
+
+.YameNavbar {
+  display: flex;
+  width: 100vw;
+  height: 10vh;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--bgcolor);
+  position: relative;
+  z-index: 100;
+}
+.menu{
+  width: 50%;
+}
+
+.menu .menuList {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  transition: all 1.5s;
+  justify-content: space-around;
+}
+
+.menu .menuList .menuListItem {
+  height: 10vh;
+}
+.menu .menuList .menuListItem > a {
+  color: white;
+  height: 100%;
+  width: 100px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu .menuList .menuListItem:hover > a {
+  color: var(--primary);
+}
+.menu .menuList .menuListItem:hover ul {
+  display: block;
+}
+.menu .menuList .menuListItem:hover::after {
+  background-color: red;
+}
+.navigationIcon .navigationIconItem {
+  color: var(--secondary);
+  margin-right: 30px;
+}
+
+.logo img {
+  transform: scale(0.5);
+}
+.menuListItemLink:hover {
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+.menuListItem::after {
+  content: "";
+  width: 100px;
+  height: 2px;
+  display: inline-block;
+  position: absolute;
+  margin-top: -10px;
+  transition: all 0.3s;
+}
+
+.navigationIconItem:hover {
+  color: var(--primary);
+}
+/* .cart{
+  position: relative;
+} */
+.navigationIcon .cart{
+  position: relative;
+
+}
+.numItems {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  background: red;
+  border-radius: 50%;
+  color: white;
+  top: -70%;
+  left: 70%;
+  font-size: 15px;
+}
+
+.searchField input{
+  color:white!important;
+}
+.searchField{
+  padding-bottom: 5px;
+}
+.navigationIcon{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

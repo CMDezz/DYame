@@ -1,0 +1,49 @@
+.ProductImage{
+    margin:5px;
+    padding:5px;
+    width: 55%;
+    height: 90vh;
+    overflow: auto;
+    text-align:justify;
+}
+
+.ProductImage img {
+    margin-bottom: 20px;
+    width: 100%;
+}
+.ProductDetails{
+    display: flex;
+    
+    justify-content: center;
+}
+.ProductInformations{
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ProductSize{
+    width: 50%;
+}
+
+.amount input{
+    width: 60px;
+    background-color:#e8e8e8 ;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.AddToCard{
+    border: 1px solid black;
+}
+
+.YameProductDetails{
+    width: 80vw;
+    margin-top:10px;
+}

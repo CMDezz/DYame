@@ -1,0 +1,31 @@
+.YameDiscount{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Discount{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+}
+.Discount img {
+    width: 100%;
+}
+.DiscountItem {
+    margin-right: 1vw;
+    margin-bottom: 30px;
+}
+.DiscountItem p {
+    text-align: center;
+    font-weight: 600;
+    margin-top: 10px;
+}

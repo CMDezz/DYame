@@ -1,0 +1,27 @@
+/* user here */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+.YameShop {
+}
+.YameShop ul {
+  list-style-type: none;
+}
+
+.YameShop a {
+  text-decoration: none;
+}
+.hotProductTitle{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin: 20px 0 ;
+}
+.subPoster{
+  margin-top:40px!important;
+}

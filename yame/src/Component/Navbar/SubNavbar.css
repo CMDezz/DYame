@@ -1,0 +1,44 @@
+:root {
+  --primary: #e13546;
+  --secondary: #878995;
+  --bgcolor: #121212;
+}
+
+.Submenu {
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.menuListItem:hover .Submenu {
+  visibility: visible;
+  /* display: block; */
+  opacity: 1;
+}
+
+.SubItemsList {
+  position: absolute;
+  list-style: none;
+  background-color: var(--bgcolor);
+  width: 300px;
+}
+
+.SubItemsList > li > a {
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+.SubItemsList > li {
+  display: inline-block;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 30px;
+  transition: all 0.3s;
+}
+
+.SubItemsList li:hover {
+  background-color: var(--primary);
+}

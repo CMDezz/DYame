@@ -1,0 +1,3091 @@
+[{
+  "_id": {
+    "$oid": "6112442ddfe81186da2353d8"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/NjmCUNj.jpg",
+    "https://i.imgur.com/RUEvEvO.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/YI3aBns.jpg",
+    "https://i.imgur.com/OtWBZWG.jpg",
+    "https://i.imgur.com/BjooxSq.jpg",
+    "https://i.imgur.com/aYjefj9.jpg",
+    "https://i.imgur.com/ZmeqZUs.jpg",
+    "https://i.imgur.com/0gSrIkr.jpg",
+    "https://i.imgur.com/OHiRpKn.jpg"
+  ],
+  "Name": "Áo Thun Cổ Tròn Y Nguyên Bản 18+ Ver1",
+  "Price": 170000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Cotton Compact 2s",
+    "dacDiem": "  Thấm hút ít nhàu, nhăn, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 4,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124b70dfe81186da2353f0"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/Enhge8P.jpg",
+    "https://i.imgur.com/V1V6Ks1.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/ZxeLjIP.jpg",
+    "https://i.imgur.com/9H5wXHs.jpg",
+    "https://i.imgur.com/0gSrIkr.jpg",
+    "https://i.imgur.com/XcatxhX.jpg",
+    "https://i.imgur.com/NAKcUiB.jpg"
+  ],
+  "Name": "Áo thun trơn màu FFF",
+  "Price": 150000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton",
+    "dacDiem": "Mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 6,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124b7edfe81186da2353f2"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/HwOF1ma.jpg",
+    "https://i.imgur.com/mYtT0uJ.jpg",
+    "https://i.imgur.com/8UofT8R.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/8UofT8R.jpg",
+    "https://i.imgur.com/mYtT0uJ.jpg",
+    "https://i.imgur.com/xukIQ94.jpg",
+    "https://i.imgur.com/diW56Ia.jpg",
+    "https://i.imgur.com/5rd3cbn.jpg"
+  ],
+  "Name": "Áo thun thể thao cổ xẻ hiện đại",
+  "Price": 135000,
+  "Detail": {
+    "kieuDang": "Áo thun cổ xẻ",
+    "chatLieu": "Vải Cotton",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 5,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124b8cdfe81186da2353f4"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/oSbJt9h.jpg",
+    "https://i.imgur.com/SwjJwMk.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/cBr7fdm.jpg",
+    "https://i.imgur.com/GYwnMf7.jpg",
+    "https://i.imgur.com/LRwAqHg.jpg",
+    "https://i.imgur.com/GVOGTKJ.jpg",
+    "https://i.imgur.com/r4rPAk8.jpg"
+  ],
+  "Name": "Áo thun rồng con nghịch nghợm",
+  "Price": 167000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 4,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124b95dfe81186da2353f6"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/YXCUCNP.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/ZdGmUhl.jpg",
+    "https://i.imgur.com/Aqbx4Ve.jpg",
+    "https://i.imgur.com/R8Jjiz1.jpg"
+  ],
+  "Name": "Áo thun tinh  vân thể thao",
+  "Price": 167000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 7,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    },
+    {
+      "$oid": "612084123fa6f64d78989571"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124bc1dfe81186da2353fa"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/TheUJkn.jpg",
+    "https://i.imgur.com/6kuBCEr.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/yn13ssa.jpg",
+    "https://i.imgur.com/p8QP8UH.jpg",
+    "https://i.imgur.com/1siEyWq.jpg",
+    "https://i.imgur.com/TGgPsEH.jpg"
+  ],
+  "Name": "Áo thun trơn họa tiết",
+  "Price": 177000,
+  "Detail": {
+    "kieuDang": "Áo thun trơn",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 5,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124ca9dfe81186da2353ff"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/0EoTPWI.jpg",
+    "https://i.imgur.com/aM2VKi7.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/jk78f2r.jpg",
+    "https://i.imgur.com/eFVSrzT.jpg",
+    "https://i.imgur.com/voyB4EC.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun Logo Signal đơn giản",
+  "Price": 156000,
+  "Detail": {
+    "kieuDang": "Áo thun đơn giản",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 6,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    },
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124d2adfe81186da235401"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/p00kPIM.jpg",
+    "https://i.imgur.com/AzOTAAB.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/EJeAqWU.jpg",
+    "https://i.imgur.com/nDiawLo.jpg",
+    "https://i.imgur.com/voyB4EC.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun Flash in middle",
+  "Price": 156000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 5,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124da4dfe81186da235403"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/0xbY2yx.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/LmKZeyp.jpg",
+    "https://i.imgur.com/u4n5CCG.jpg",
+    "hhttps://i.imgur.com/JV13KPc.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun trơn logo right",
+  "Price": 122000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 4,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124e02dfe81186da235405"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/QNZuwg5.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/3rFF9BA.jpg",
+    "https://i.imgur.com/okjYGgi.jpg",
+    "hhttps://i.imgur.com/JV13KPc.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun Soda Soda",
+  "Price": 150000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 10,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120850a26ddb04dd075b353"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124e5adfe81186da235407"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/0LukFKF.jpg",
+    "https://i.imgur.com/gyqsQGy.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/AHHVF2f.jpg",
+    "https://i.imgur.com/rFe9ijB.jpg",
+    "hhttps://i.imgur.com/JV13KPc.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun thể thao không nhăn",
+  "Price": 150000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 7,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120850a26ddb04dd075b353"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124ec7dfe81186da235409"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "61126bb5fc09638e0e367186"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/AYWWZDj.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/GM43F8K.jpg",
+    "https://i.imgur.com/30vm5kf.jpg",
+    "hhttps://i.imgur.com/JV13KPc.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun cổ điển mộc",
+  "Price": 152000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 6,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    },
+    {
+      "$oid": "6120850a26ddb04dd075b353"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61124f1ddfe81186da23540b"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/Lv1VCz0.jpg",
+    "https://i.imgur.com/lQPPx2H.jpg",
+    "https://i.imgur.com/9SmBbTI.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/V5XinYf.jpg",
+    "https://i.imgur.com/DnrIIIL.jpg",
+    "https://i.imgur.com/lQPPx2H.jpg",
+    "https://i.imgur.com/32jek7x.jpg"
+  ],
+  "Name": "Áo thun mùa hè sôi nổi",
+  "Price": 152000,
+  "Detail": {
+    "kieuDang": "Áo thun form rộng",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 6,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120850a26ddb04dd075b353"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61125d3b8a73d88997055a20"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/9AHPWY4.jpg",
+    "https://i.imgur.com/TGgPsEH.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/TKdXfoE.jpg",
+    "https://i.imgur.com/JB9L5mC.jpg",
+    "https://i.imgur.com/QRyzo3f.jpg",
+    "https://i.imgur.com/NylzHsX.jpg"
+  ],
+  "Name": "Áo thun ai cập bí ẩn",
+  "Price": 147000,
+  "Detail": {
+    "kieuDang": "Áo thun kiểu cách",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 7,
+  "AlbumId": [
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857226ddb04dd075b361"
+    },
+    {
+      "$oid": "6120856a26ddb04dd075b35f"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114f84d8389ad8ea1b9e004"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f6f08389ad8ea1b9dfed"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/ZS4nsO7.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/fElVXR0.jpg",
+    "https://i.imgur.com/vYAD1Kj.jpg",
+    "https://i.imgur.com/e6M3Hln.jpg",
+    "https://i.imgur.com/NylzHsX.jpg"
+  ],
+  "Name": "Áo thun Phong Khê",
+  "Price": 150000,
+  "Detail": {
+    "kieuDang": "Áo thun kiểu cách",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083d53fa6f64d78989569"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857226ddb04dd075b361"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114f9058389ad8ea1b9e006"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f6f08389ad8ea1b9dfed"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/EeLdaXT.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/9p0vhsv.jpg",
+    "https://i.imgur.com/0tGD2LT.jpg"
+  ],
+  "Name": "Áo thun Long Vận",
+  "Price": 150000,
+  "Detail": {
+    "kieuDang": "Áo thun kiểu cách",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083d53fa6f64d78989569"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857226ddb04dd075b361"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fa168389ad8ea1b9e00a"
+  },
+  "TagId": [
+    {
+      "$oid": "6114f78c8389ad8ea1b9dffd"
+    },
+    {
+      "$oid": "6114f6f08389ad8ea1b9dfed"
+    },
+    {
+      "$oid": "6114f7958389ad8ea1b9dfff"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/DtV63ag.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/Fxqg1uK.jpg",
+    "https://i.imgur.com/5mkvWNl.jpg",
+    "https://i.imgur.com/xOwgXxa.jpg"
+  ],
+  "Name": "Quần Jean SlimFit",
+  "Price": 350000,
+  "Detail": {
+    "kieuDang": "Quần Jean dài thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 5,
+  "AlbumId": [
+    {
+      "$oid": "612083d53fa6f64d78989569"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114faa08389ad8ea1b9e00c"
+  },
+  "TagId": [
+    {
+      "$oid": "6114f78c8389ad8ea1b9dffd"
+    },
+    {
+      "$oid": "6114f6f08389ad8ea1b9dfed"
+    },
+    {
+      "$oid": "6114f7958389ad8ea1b9dfff"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/CNCCTlR.jpg",
+    "https://i.imgur.com/3ymxJb3.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/zTT718D.jpg",
+    "https://i.imgur.com/5mkvWNl.jpg",
+    "https://i.imgur.com/lpb9M9b.jpg"
+  ],
+  "Name": "Quần Jean Skinny",
+  "Price": 350000,
+  "Detail": {
+    "kieuDang": "Quần Jean dài thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083d53fa6f64d78989569"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fb288389ad8ea1b9e00e"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f6f08389ad8ea1b9dfed"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/96y2wL8.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/N3HPNYX.jpg",
+    "https://i.imgur.com/F0ltSil.jpg",
+    "https://i.imgur.com/7NH6ATH.jpg"
+  ],
+  "Name": "Áo thun Logo Văn Hiến",
+  "Price": 145000,
+  "Detail": {
+    "kieuDang": "Áo thun thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083d53fa6f64d78989569"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120858626ddb04dd075b365"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fbec8389ad8ea1b9e013"
+  },
+  "TagId": [
+    {
+      "$oid": "6114f78c8389ad8ea1b9dffd"
+    },
+    {
+      "$oid": "6114f6f08389ad8ea1b9dfed"
+    },
+    {
+      "$oid": "6114f7958389ad8ea1b9dfff"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/nTpNAWi.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/prAuQ6H.jpg",
+    "https://i.imgur.com/WnDAQGn.jpg",
+    "https://i.imgur.com/rSumkQf.jpg"
+  ],
+  "Name": "Quần Jean Vạn Xuân SlimFit",
+  "Price": 350000,
+  "Detail": {
+    "kieuDang": "Quần Jean dài thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083d53fa6f64d78989569"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fca28389ad8ea1b9e015"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7288389ad8ea1b9dff1"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/Tbt5kC3.jpg",
+    "https://i.imgur.com/NcqoJKH.jpg",
+    "https://i.imgur.com/4vpjIRO.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/MI0BVNX.jpg",
+    "https://i.imgur.com/hg6y7O4.jpg",
+    "https://i.imgur.com/rSumkQf.jpg"
+  ],
+  "Name": "Áo thun Angelo",
+  "Price": 155000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857226ddb04dd075b361"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fd1b8389ad8ea1b9e017"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7288389ad8ea1b9dff1"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/Be2BuNC.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/90YQZV8.jpg",
+    "https://i.imgur.com/hD4b7sk.jpg",
+    "https://i.imgur.com/8I9kpnD.jpg",
+    "https://i.imgur.com/eZuB5NV.jpg"
+  ],
+  "Name": "Áo thun Valknut trắng",
+  "Price": 155000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857226ddb04dd075b361"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fd308389ad8ea1b9e019"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7288389ad8ea1b9dff1"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/PSeJ1xN.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/90YQZV8.jpg",
+    "https://i.imgur.com/hD4b7sk.jpg",
+    "https://i.imgur.com/8I9kpnD.jpg",
+    "https://i.imgur.com/eZuB5NV.jpg"
+  ],
+  "Name": "Áo thun Valknut đen",
+  "Price": 155000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857226ddb04dd075b361"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6114fe208389ad8ea1b9e024"
+  },
+  "TagId": [
+    {
+      "$oid": "6114fd8b8389ad8ea1b9e01f"
+    },
+    {
+      "$oid": "6114f7288389ad8ea1b9dff1"
+    },
+    {
+      "$oid": "6114fd918389ad8ea1b9e021"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/U0yDFxq.jpg",
+    "https://i.imgur.com/JEVzFs2.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/zBaI2es.jpg",
+    "https://i.imgur.com/0gel5MN.jpg"
+  ],
+  "Name": "Áo khoác Valknut ",
+  "Price": 255000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 2,
+  "AlbumId": [
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": []
+},{
+  "_id": {
+    "$oid": "6115092f8389ad8ea1b9e026"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7288389ad8ea1b9dff1"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/10HzUq2.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/qh0Sa93.jpg",
+    "https://i.imgur.com/1xp3cvN.jpg",
+    "https://i.imgur.com/lYrTMsg.jpg"
+  ],
+  "Name": "Áo thun Horus trắng ",
+  "Price": 145000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120858626ddb04dd075b365"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "611509488389ad8ea1b9e028"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7288389ad8ea1b9dff1"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/sMB5O9K.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/qh0Sa93.jpg",
+    "https://i.imgur.com/1xp3cvN.jpg",
+    "https://i.imgur.com/lYrTMsg.jpg"
+  ],
+  "Name": "Áo thun Horus đen ",
+  "Price": 145000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612084043fa6f64d7898956f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120858626ddb04dd075b365"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61150ac08389ad8ea1b9e02a"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7398389ad8ea1b9dff5"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/WLA8Swd.jpg",
+    "https://i.imgur.com/HUU4yte.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/46DW9r5.jpg",
+    "https://i.imgur.com/tmo4cfx.jpg"
+  ],
+  "Name": "Áo thun Darkness trắng",
+  "Price": 135000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 4,
+  "AlbumId": [
+    {
+      "$oid": "612083fc3fa6f64d7898956d"
+    },
+    {
+      "$oid": "61208ad35c0fa74eab234145"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120858626ddb04dd075b365"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61150adf8389ad8ea1b9e02c"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7398389ad8ea1b9dff5"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/By2Pv8K.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/QfYbm6K.jpg",
+    "https://i.imgur.com/ULve8IN.jpg"
+  ],
+  "Name": "Áo thun Darkness đen",
+  "Price": 135000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 2,
+  "AlbumId": [
+    {
+      "$oid": "612083fc3fa6f64d7898956d"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61150b358389ad8ea1b9e02e"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7398389ad8ea1b9dff5"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/m1U5vFh.jpg",
+    "https://i.imgur.com/k4F41ch.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/1MytvMM.jpg",
+    "https://i.imgur.com/aru9vPb.jpg"
+  ],
+  "Name": "Áo thun Dưa hấu",
+  "Price": 125000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083fc3fa6f64d7898956d"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120858626ddb04dd075b365"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61150b7b8389ad8ea1b9e030"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7398389ad8ea1b9dff5"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/J3FtSBY.jpg",
+    "https://i.imgur.com/2kXx4E5.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/K7cJfaY.jpg",
+    "https://i.imgur.com/c1OqRZX.jpg"
+  ],
+  "Name": "Áo thun Sweet Peach",
+  "Price": 135000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 2,
+  "AlbumId": [
+    {
+      "$oid": "612083fc3fa6f64d7898956d"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61150bd78389ad8ea1b9e032"
+  },
+  "TagId": [
+    {
+      "$oid": "6112678ebb8e0d8db6691e82"
+    },
+    {
+      "$oid": "6114f7398389ad8ea1b9dff5"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/jumCObI.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/zh8EgKr.jpg",
+    "https://i.imgur.com/nTPubkM.jpg"
+  ],
+  "Name": "Áo thun Icons Samul",
+  "Price": 155000,
+  "Detail": {
+    "kieuDang": "Áo thun thiết kế thoải mái",
+    "chatLieu": "Vải Cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 3,
+  "AlbumId": [
+    {
+      "$oid": "612083fc3fa6f64d7898956d"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120858626ddb04dd075b365"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "612376956089540838ce5909"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612083e63fa6f64d7898956b"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085c326ddb04dd075b36d"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/tH2aKDF.jpg",
+    "https://i.imgur.com/cfeCjUJ.jpg",
+    "https://i.imgur.com/uL1pv3w.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/zmIjhcd.jpg",
+    "https://i.imgur.com/6lqSMAM.jpg"
+  ],
+  "Name": "Áo khoác y nguyên bản",
+  "Price": 355000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612376d06089540838ce590b"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084123fa6f64d78989571"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085c326ddb04dd075b36d"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/tH2aKDF.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/c4HLQx9.jpg",
+    "https://i.imgur.com/rjqbtRG.jpg"
+  ],
+  "Name": "Áo khoác classic đơn giản",
+  "Price": 365000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612377756089540838ce5911"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084123fa6f64d78989571"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085c326ddb04dd075b36d"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/hiSJhp0.jpg",
+    "https://i.imgur.com/7E4BDLy.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/Xgy8vqM.jpg"
+  ],
+  "Name": "Áo khoác Logo phản quan",
+  "Price": 295000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6123780d6089540838ce5913"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084123fa6f64d78989571"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085c326ddb04dd075b36d"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/hq2014C.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/x98sBQe.jpg"
+  ],
+  "Name": "Áo khoác Klud",
+  "Price": 325000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612378946089540838ce5915"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085c726ddb04dd075b36f"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/MU5Lu9n.jpg",
+    "https://i.imgur.com/nbgXnZH.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/1tdi13Z.jpg"
+  ],
+  "Name": "Áo khoác dù xanh đen",
+  "Price": 325000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612378fa6089540838ce5917"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085c726ddb04dd075b36f"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/nMTlHsv.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/8WoVEhJ.jpg"
+  ],
+  "Name": "Áo khoác dù đen",
+  "Price": 315000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6123797b6089540838ce5919"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084123fa6f64d78989571"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085d226ddb04dd075b373"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/hrZSMUe.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/p7R7ySO.jpg"
+  ],
+  "Name": "Áo hoodie đơn giản",
+  "Price": 245000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612379e56089540838ce591b"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084123fa6f64d78989571"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085d226ddb04dd075b373"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/Wka4JVs.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/PLNIa2H.jpg"
+  ],
+  "Name": "Áo hoodie ngân hà đen",
+  "Price": 285000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237a026089540838ce591d"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084123fa6f64d78989571"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859626ddb04dd075b367"
+    },
+    {
+      "$oid": "612085d226ddb04dd075b373"
+    },
+    {
+      "$oid": "6120850526ddb04dd075b351"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/6xuZU3L.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/ydQbgZG.jpg"
+  ],
+  "Name": "Áo hoodie tinh vân",
+  "Price": 285000,
+  "Detail": {
+    "kieuDang": "Áo khoác thiết kế thoải mái",
+    "chatLieu": "Vải kaki ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237ae46089540838ce591f"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085f726ddb04dd075b378"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/D1FniNX.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/ky1Uuqg.jpg"
+  ],
+  "Name": "Áo sơ mi trắng đơn giản",
+  "Price": 235000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237b036089540838ce5921"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085f726ddb04dd075b378"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/qQcjjiT.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/IaGVJEe.jpg"
+  ],
+  "Name": "Áo sơ mi trắng sợi cà phê",
+  "Price": 215000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237b6e6089540838ce5923"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085f726ddb04dd075b378"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/lXyHJkv.jpg",
+    "https://i.imgur.com/YgGWthD.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/zElWXCj.jpg"
+  ],
+  "Name": "Áo sơ mi vải sợi tre",
+  "Price": 225000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237bbd6089540838ce5925"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085f726ddb04dd075b378"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/93xjvD9.jpg",
+    "https://i.imgur.com/OexmnSy.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/IaGVJEe.jpg"
+  ],
+  "Name": "Áo sơ mi đen sợi cà phê",
+  "Price": 225000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237bf86089540838ce5927"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085f726ddb04dd075b378"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/MS5HeBP.jpg",
+    "https://i.imgur.com/xrvjJYt.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/xrvjJYt.jpg"
+  ],
+  "Name": "Áo sơ mi xanh sành điệu",
+  "Price": 225000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237c776089540838ce5929"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085fc26ddb04dd075b37a"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/WXYht4x.jpg",
+    "https://i.imgur.com/b0CRQnm.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/iBUagSF.jpg"
+  ],
+  "Name": "Áo sơ mi đen ngắn",
+  "Price": 205000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237ce06089540838ce592b"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    },
+    {
+      "$oid": "612083e63fa6f64d7898956b"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085fc26ddb04dd075b37a"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/MTor0td.jpg",
+    "https://i.imgur.com/URyEknm.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/p89BhtY.jpg"
+  ],
+  "Name": "Áo sơ mi ngắn y nguyên bản v1",
+  "Price": 205000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237d1d6089540838ce592d"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    },
+    {
+      "$oid": "612083e63fa6f64d7898956b"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085fc26ddb04dd075b37a"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/Rfn6moJ.jpg",
+    "https://i.imgur.com/Qzm4bwB.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/p89BhtY.jpg"
+  ],
+  "Name": "Áo sơ mi ngắn y nguyên bản xanh v1",
+  "Price": 205000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237d796089540838ce592f"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120859c26ddb04dd075b369"
+    },
+    {
+      "$oid": "612085fc26ddb04dd075b37a"
+    },
+    {
+      "$oid": "6120851126ddb04dd075b355"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/kqkiBIp.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/iBUagSF.jpg"
+  ],
+  "Name": "Áo sơ mi ngắn cá tính",
+  "Price": 205000,
+  "Detail": {
+    "kieuDang": "Áo sơ mi thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61237f676089540838ce5996"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/5VmyujJ.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/DyhZPj7.jpg"
+  ],
+  "Name": "Quần Jean skinny đơn giản x1",
+  "Price": 335000,
+  "Detail": {
+    "kieuDang": "Quần Jean thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6123802b6089540838ce59a5"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/JrQNNP9.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/DyhZPj7.jpg"
+  ],
+  "Name": "Quần Jean skinny đơn giản x2",
+  "Price": 335000,
+  "Detail": {
+    "kieuDang": "Quần Jean thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612380556089540838ce59a7"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/fFjXHiM.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/DyhZPj7.jpg"
+  ],
+  "Name": "Quần Jean ống suông màu h1",
+  "Price": 325000,
+  "Detail": {
+    "kieuDang": "Quần Jean thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612380666089540838ce59a9"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/fXoiq0n.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/DyhZPj7.jpg"
+  ],
+  "Name": "Quần Jean ống suông màu đậm h1",
+  "Price": 325000,
+  "Detail": {
+    "kieuDang": "Quần Jean thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612380766089540838ce59ab"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120860926ddb04dd075b37c"
+    },
+    {
+      "$oid": "6120852226ddb04dd075b357"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/pGpBLiV.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/DyhZPj7.jpg"
+  ],
+  "Name": "Quần Jean ống suông màu sáng h2",
+  "Price": 325000,
+  "Detail": {
+    "kieuDang": "Quần Jean thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612381656089540838ce59b6"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861926ddb04dd075b37e"
+    },
+    {
+      "$oid": "6120861d26ddb04dd075b380"
+    },
+    {
+      "$oid": "6120853226ddb04dd075b359"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/T8Uemdc.jpg",
+    "https://i.imgur.com/ZAG6U0c.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/Al37plo.jpg"
+  ],
+  "Name": "Quần Short thể thao đen spandex",
+  "Price": 175000,
+  "Detail": {
+    "kieuDang": "Quần short thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6123818d6089540838ce59b8"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861926ddb04dd075b37e"
+    },
+    {
+      "$oid": "6120853226ddb04dd075b359"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/W3x8BvI.jpg",
+    "https://i.imgur.com/F5oE8lt.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/Al37plo.jpg"
+  ],
+  "Name": "Quần Short thể thao cooler",
+  "Price": 175000,
+  "Detail": {
+    "kieuDang": "Quần short thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "612381b86089540838ce59ba"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861926ddb04dd075b37e"
+    },
+    {
+      "$oid": "6120853226ddb04dd075b359"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/n6TQU6U.jpg",
+    "https://i.imgur.com/urZPJBh.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/Al37plo.jpg"
+  ],
+  "Name": "Quần Short thể thao đơn giản",
+  "Price": 175000,
+  "Detail": {
+    "kieuDang": "Quần short thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "612384806089540838ce5a20"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861d26ddb04dd075b380"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/COcU4HQ.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/EjTqePt.jpg"
+  ],
+  "Name": "Quần Kaki thể thao đơn giản",
+  "Price": 245000,
+  "Detail": {
+    "kieuDang": "Quần kaki thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612384976089540838ce5a22"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861d26ddb04dd075b380"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/ejLMbe2.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/EjTqePt.jpg"
+  ],
+  "Name": "Quần Kaki thể thao đen",
+  "Price": 245000,
+  "Detail": {
+    "kieuDang": "Quần kaki thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612384a76089540838ce5a24"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861d26ddb04dd075b380"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/q4fSGZB.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/EjTqePt.jpg"
+  ],
+  "Name": "Quần Kaki thể thao sọc xanh",
+  "Price": 245000,
+  "Detail": {
+    "kieuDang": "Quần kaki thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612384b76089540838ce5a26"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861d26ddb04dd075b380"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/BwVUnzt.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/EjTqePt.jpg"
+  ],
+  "Name": "Quần Kaki đen xám",
+  "Price": 245000,
+  "Detail": {
+    "kieuDang": "Quần kaki thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "612384c86089540838ce5a28"
+  },
+  "AlbumId": [
+    {
+      "$oid": "61208afe5c0fa74eab234147"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "612085a326ddb04dd075b36b"
+    },
+    {
+      "$oid": "6120861d26ddb04dd075b380"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/kRDEXlF.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/EjTqePt.jpg"
+  ],
+  "Name": "Quần Kaki phong cách",
+  "Price": 245000,
+  "Detail": {
+    "kieuDang": "Quần kaki thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "29": 12,
+    "30": 4,
+    "31": 6,
+    "32": 8,
+    "33": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612389ae6089540838ce5bb0"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612083543fa6f64d78989565"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857a26ddb04dd075b363"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/SGOsewD.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/BIxI1VT.jpg"
+  ],
+  "Name": "Áo thun 3 lỗ thể thao typography",
+  "Price": 165000,
+  "Detail": {
+    "kieuDang": " Áo thun  thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612389cf6089540838ce5bb5"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612083543fa6f64d78989565"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857a26ddb04dd075b363"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/IAqFqAs.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/BIxI1VT.jpg"
+  ],
+  "Name": "Áo thun 3 lỗ thể thao đen",
+  "Price": 165000,
+  "Detail": {
+    "kieuDang": " Áo thun  thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612389e16089540838ce5bb7"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612083543fa6f64d78989565"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857a26ddb04dd075b363"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/5PkLHDA.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/BIxI1VT.jpg"
+  ],
+  "Name": "Áo thun 3 lỗ thể thao sọc cam",
+  "Price": 165000,
+  "Detail": {
+    "kieuDang": " Áo thun  thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612389ef6089540838ce5bb9"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612083543fa6f64d78989565"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857a26ddb04dd075b363"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/9eDrdFq.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/BIxI1VT.jpg"
+  ],
+  "Name": "Áo thun 3 lỗ thể classic",
+  "Price": 165000,
+  "Detail": {
+    "kieuDang": " Áo thun  thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61238a056089540838ce5bbb"
+  },
+  "AlbumId": [
+    {
+      "$oid": "612083543fa6f64d78989565"
+    },
+    {
+      "$oid": "61209d2fbb185c527390784a"
+    }
+  ],
+  "TypeId": [
+    {
+      "$oid": "6120855e26ddb04dd075b35d"
+    },
+    {
+      "$oid": "6120857a26ddb04dd075b363"
+    },
+    {
+      "$oid": "612084f626ddb04dd075b34f"
+    }
+  ],
+  "Image": [
+    "https://i.imgur.com/872nHiC.jpg"
+  ],
+  "SubImage": [
+    "https://i.imgur.com/BIxI1VT.jpg"
+  ],
+  "Name": "Áo thun 3 lỗ logo Juni",
+  "Price": 165000,
+  "Detail": {
+    "kieuDang": " Áo thun  thiết kế thoải mái",
+    "chatLieu": "Vải cotton ít nhăn",
+    "dacDiem": "Chống hút, chống ẩm, mát mẻ, thoải mái"
+  },
+  "Size": {
+    "S": 12,
+    "M": 4,
+    "L": 6,
+    "XL": 8,
+    "XXL": 0
+  },
+  "__v": 0
+}]

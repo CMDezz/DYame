@@ -1,0 +1,11 @@
+.YMProductList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:50px;
+}
+.ProductList{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw
+}

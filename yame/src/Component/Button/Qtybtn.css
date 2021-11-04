@@ -1,0 +1,17 @@
+
+.amount{
+    display: flex;
+    background-color: #e8e8e8;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.amount .edit-qty{
+    width: 30px;
+    text-align: center;
+
+}
+.amount .edit-qty:hover{
+    cursor: pointer;
+}

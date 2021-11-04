@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "612083543fa6f64d78989565"
+  },
+  "Image": [
+    "https://cms.yame.vn/uploads/c2a09fac-900e-4652-850b-caf496ed2c45-tuan4-thang5.jpg"
+  ],
+  "Name": "Mùa hè năng động",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612083d53fa6f64d78989569"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "12 anh hùng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612083e63fa6f64d7898956b"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "Y nguyên bản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612083fc3fa6f64d7898956d"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "Thiên nhiên",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612084043fa6f64d7898956f"
+  },
+  "Image": [
+    "https://cms.yame.vn/uploads/b6d95395-5aa6-4f2c-96d1-2b4c9208ed62-thumb.jpg"
+  ],
+  "Name": "Thần cổ đại",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612084123fa6f64d78989571"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "Nguyên tố",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61208ad35c0fa74eab234145"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "Bán chạy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61208afe5c0fa74eab234147"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "Bán chạy 2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61209d2fbb185c527390784a"
+  },
+  "Image": [
+    ""
+  ],
+  "Name": "Thể thao",
+  "__v": 0
+}]

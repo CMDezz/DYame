@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "612084f626ddb04dd075b34f"
+  },
+  "Name": "Đơn giản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120850526ddb04dd075b351"
+  },
+  "Name": "Áo khoác đơn giản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120850a26ddb04dd075b353"
+  },
+  "Name": "Áo thun đơn giản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120851126ddb04dd075b355"
+  },
+  "Name": "Áo sơ mi đơn giản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120852226ddb04dd075b357"
+  },
+  "Name": "Quần dài đơn giản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120853226ddb04dd075b359"
+  },
+  "Name": "Quần short đơn giản",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120855626ddb04dd075b35b"
+  },
+  "Name": "Thể thao",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120855e26ddb04dd075b35d"
+  },
+  "Name": "Áo thun",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120856a26ddb04dd075b35f"
+  },
+  "Name": "Áo thun form tiêu chuẩn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120857226ddb04dd075b361"
+  },
+  "Name": "Áo thun form rộng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120857a26ddb04dd075b363"
+  },
+  "Name": "Áo thun 3 lỗ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120858626ddb04dd075b365"
+  },
+  "Name": "Áo thun cổ trụ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120859626ddb04dd075b367"
+  },
+  "Name": "Áo khoác",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120859c26ddb04dd075b369"
+  },
+  "Name": "Áo sơ mi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612085a326ddb04dd075b36b"
+  },
+  "Name": "Quần",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612085c326ddb04dd075b36d"
+  },
+  "Name": "Áo khoác kaki",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612085c726ddb04dd075b36f"
+  },
+  "Name": "Áo khoác dù",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612085d226ddb04dd075b373"
+  },
+  "Name": "Áo hoodie",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612085f726ddb04dd075b378"
+  },
+  "Name": "Áo sơ mi tay dài",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612085fc26ddb04dd075b37a"
+  },
+  "Name": "Áo sơ mi tay ngắn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120860926ddb04dd075b37c"
+  },
+  "Name": "Quần Jeans",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120861926ddb04dd075b37e"
+  },
+  "Name": "Quần short",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6120861d26ddb04dd075b380"
+  },
+  "Name": "Quần kaki",
+  "__v": 0
+}]

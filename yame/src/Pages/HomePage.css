@@ -1,0 +1,10 @@
+.hotProductTitle{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 20px 0 ;
+  }
+  .subPoster{
+    margin-top:40px!important;
+  }

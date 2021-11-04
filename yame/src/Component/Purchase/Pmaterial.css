@@ -1,0 +1,55 @@
+.ymf .MuiFormControl-root{
+    width: 98%!important;
+}
+.ymf .MuiFormControl-root:nth-child(1){
+    margin-right: 200px!important;
+}
+
+.formNote{
+    /* width: 99%;
+    margin-left: 1%; */
+    width: 100%;
+    margin-left: 1%;
+}
+.ymForm{
+    margin: 50px 0px;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.fromCartDetail{
+    overflow: scroll;
+    height: 60vh;
+}
+.calc{
+    background-color:#f2f2f2 ;
+    height: 30vh;
+    padding-top: 20px;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.calc span{
+    font-size: 18px;
+    font-weight: 550;
+}
+.toCart{
+    color: white;
+    /* width: 200px; */
+}
+.toCart:hover{
+    text-decoration: none;
+}
+.smit button{
+    margin-top:20px!important;
+}
+.smit{
+    margin-bottom: 100px;
+}
+.ymfm {
+    margin-right: 20px!important;
+}
+.btnPurchase{
+    display: flex;
+    flex-direction: column;
+}

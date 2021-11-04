@@ -1,0 +1,37 @@
+.SliderItem{
+    width: 49.5%;
+    margin-right: 1%;
+}
+
+.SliderItem:nth-child(2){
+    margin-right: 0%;
+}
+
+.SliderItem img{
+    width: 100%;
+}
+
+.subImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subImgItem{
+    width: 24.75%;
+    margin-top:10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.subImgItem:nth-child(4){
+   margin-right: 0px;
+}
+.Title a{
+    text-decoration: none;
+    color: black;
+    transition: all .3s;
+    font-size: 25px;
+    font-weight: 550;
+}
+.Title a:hover{
+    color: #3f8de0;
+}

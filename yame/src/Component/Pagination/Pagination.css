@@ -1,0 +1,14 @@
+.YMPaginationUl{
+    display: flex!important;
+    flex-direction: row;
+    padding-left: 10vw;
+}
+.YMPaginationUl li {
+    width: auto;
+    height: 50px;
+    
+}
+
+.YamePagination a{
+    color: black;
+}

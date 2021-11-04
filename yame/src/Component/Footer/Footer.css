@@ -1,0 +1,21 @@
+:root {
+    --primary: #e13546;
+    --secondary: #878995;
+    --bgcolor: #191919;
+  }
+  
+.YameFooter {
+    padding: 30px;
+
+    width: 100%;
+    background-color: var(--bgcolor);
+    color: white;
+}
+.Address{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.logo{
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+.YSlider{
+     display: flex;
+   justify-content: center;
+    align-items: center;
+    width: 80vw;
+}
+
+.YSlider img{
+    width: 100%;
+}
+
+.YameSlider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
